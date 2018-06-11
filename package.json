@@ -1,5 +1,5 @@
 {
-  "name": "picturefill",
+  "name": "@gpittarelli/picturefill",
   "description": "A responsive image polyfill.",
   "version": "3.0.3",
   "homepage": "https://scottjehl.github.io/picturefill/",
