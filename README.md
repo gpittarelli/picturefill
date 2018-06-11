@@ -1,3 +1,5 @@
+NOTE: This is a fork, published as @gpittarelli/picturefill. Only difference is that this publish is up-to-date with 3.0.3 whereas the main package has gone unpublished for almost a year
+
 # Picturefill
 A [responsive image](http://www.whatwg.org/specs/web-apps/current-work/multipage/embedded-content.html#embedded-content) polyfill.
 * Authors: See [Authors.txt](https://raw.githubusercontent.com/scottjehl/picturefill/master/Authors.txt)
